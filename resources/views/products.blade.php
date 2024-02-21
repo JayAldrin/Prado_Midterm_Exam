@@ -7,6 +7,9 @@
     <title>Products</title>
 </head>
 <body>
-    <h1></h1>
+    <h1>{{$name}}</h1>
+    <h1>{{$brand}}</h1>
+    <h1>{{$chip}}</h1>
+    <h1>{{$release}}</h1>
 </body>
 </html>
